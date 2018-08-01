@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>net.alanbernstein.fswatch</string>
+    <key>Program</key>
+    <string>/Users/abernstein/Dropbox/src/py/fswatch/fswatch.py</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <dict>
+      <key>Crashed</key>
+      <true/>
+      <key>SuccessfulExit</key>
+      <false/>
+    </dict>
+    <key>ProcessType</key>
+    <string>Background</string>
+    <key>StandardErrorPath</key>
+    <string>/usr/local/var/log/net.alanbernstein.fswatch.log</string>
+    <key>StandardOutPath</key>
+    <string>/usr/local/var/log/net.alanbernstein.fswatch.log</string>
+  </dict>
+</plist>
